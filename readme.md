@@ -61,12 +61,18 @@ I review DeFi repos with static analysis, manual review, and exploit-path-orient
 ![Foundry](https://img.shields.io/badge/Foundry-111111?style=flat&logo=ethereum&logoColor=white)
 ![Slither](https://img.shields.io/badge/Slither-static%20analysis-7C3AED?style=flat)
 
-## GitHub stats
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUPM96&show_icons=true&theme=github_dark" alt="TUPM96 GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUPM96&theme=github-dark-blue" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUPM96&layout=compact&theme=github_dark" alt="Top languages" />
+  <a href="https://github.com/TUPM96?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?color=0969da&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTUPM96&style=for-the-badge&logo=github" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3ATUPM96">
+    <img src="https://img.shields.io/badge/PRs-bounty%20%2F%20security-2da44e?style=for-the-badge&logo=github" alt="Bounty and security PRs" />
+  </a>
+  <a href="https://github.com/TUPM96?tab=followers">
+    <img src="https://img.shields.io/github/followers/TUPM96?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
 </p>
 
 ## Connect
