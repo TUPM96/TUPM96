@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào, mình là TUPM96</h1>
+<h1 align="center">Hi, I'm TUPM96</h1>
 <h3 align="center">Freelance full-stack engineer | OSS bounty hunter | Web3 security researcher</h3>
 
 <p align="center">
@@ -13,16 +13,16 @@
   </a>
 </p>
 
-Tôi build sản phẩm thực chiến, audit code để tìm lỗi có tác động thật, và biến các issue bounty thành PR có test, validation, docs và đường lui rõ ràng. Điểm mạnh của tôi là đọc nhanh codebase lạ, khoanh vùng risk, rồi ship bản vá nhỏ gọn nhưng chạm đúng vấn đề.
+I build production software, audit code for real-world impact, and turn bounty issues into PRs with tests, validation, docs, and a clear rollback path. My edge is getting productive inside unfamiliar codebases quickly, isolating risk, and shipping focused fixes that hit the root cause.
 
-## Đang tập trung
+## Current focus
 
-- Security hardening cho backend, webhook, auth, queue runtime, CI/CD và cấu hình deploy.
-- Web3 review với Solidity/Vyper, Slither, Foundry, access control, oracle, accounting và invariant testing.
-- Product engineering cho app thật: Node.js, TypeScript, Python, Java/Spring, PostgreSQL, WPF/.NET và mobile workflows.
+- Security hardening for backends, webhooks, auth flows, queue runtimes, CI/CD, and deployment configuration.
+- Web3 review with Solidity/Vyper, Slither, Foundry, access control, oracle, accounting, and invariant testing.
+- Product engineering for real apps: Node.js, TypeScript, Python, Java/Spring, PostgreSQL, WPF/.NET, and mobile workflows.
 - Bounty workflow: reproduce, write failing test, patch, verify, submit PR, iterate with maintainers.
 
-## Bounty & OSS PR nổi bật
+## Highlighted bounty & OSS PRs
 
 | Project | Work | Status |
 | --- | --- | --- |
@@ -41,7 +41,7 @@ Tôi build sản phẩm thực chiến, audit code để tìm lỗi có tác đ�
 
 ## Web3 security lab
 
-Tôi thường rà các repo DeFi bằng static analysis, manual review và test theo hướng exploit path:
+I review DeFi repos with static analysis, manual review, and exploit-path-oriented tests:
 
 | Area | Repos |
 | --- | --- |
@@ -69,7 +69,7 @@ Tôi thường rà các repo DeFi bằng static analysis, manual review và test
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUPM96&layout=compact&theme=github_dark" alt="Top languages" />
 </p>
 
-## Kết nối
+## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-TUPM96-181717?style=flat&logo=github)](https://github.com/TUPM96)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TUPM96-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/TUPM96)
